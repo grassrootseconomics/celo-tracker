@@ -35,7 +35,11 @@ require (
 	github.com/holiman/uint256 v1.3.0 // indirect
 	github.com/huin/goupnp v1.3.0 // indirect
 	github.com/jackpal/go-nat-pmp v1.0.2 // indirect
+	github.com/klauspost/compress v1.17.2 // indirect
 	github.com/mattn/go-runewidth v0.0.14 // indirect
+	github.com/nats-io/nats.go v1.36.0 // indirect
+	github.com/nats-io/nkeys v0.4.7 // indirect
+	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/onsi/gomega v1.10.1 // indirect
 	github.com/pkg/errors v0.9.1 // indirect

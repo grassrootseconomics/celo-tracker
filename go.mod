@@ -3,7 +3,7 @@ module github.com/grassrootseconomics/eth-tracker
 go 1.24.0
 
 require (
-	github.com/VictoriaMetrics/metrics v1.37.0
+	github.com/VictoriaMetrics/metrics v1.41.2
 	github.com/alitto/pond/v2 v2.3.4
 	github.com/bits-and-blooms/bitset v1.24.2
 	github.com/ethereum/go-ethereum v1.17.0
